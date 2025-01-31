@@ -27,6 +27,8 @@ luci-i18n-cifs-mount-zh-cn
 luci-i18n-zerotier-zh-cn
 luci-app-passwall2
 luci-i18n-passwall2-zh-cn
+luci-app-turboacc
+luci-i18n-turboacc-zh-cn
 zsh
 vim-fuller
 bash
