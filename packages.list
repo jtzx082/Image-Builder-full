@@ -26,7 +26,7 @@ luci-lib-docker
 luci-i18n-cifs-mount-zh-cn
 luci-i18n-zerotier-zh-cn
 luci-app-passwall2
-luci-app-turboacc
+luci-i18n-passwall2-zh-cn
 zsh
 vim-fuller
 bash
